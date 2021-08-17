@@ -6,6 +6,7 @@ The dataset is divided into five training batches and one test batch, each with 
 
 The label classes in the dataset are:
 
+<pre>
 airplane 
 automobile 
 bird 
@@ -16,3 +17,4 @@ frog
 horse 
 ship 
 truck
+</pre>
